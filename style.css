@@ -9,12 +9,13 @@ body {
    padding-bottom: 36px;
    width: 768px;
 
-  
+
 }
 h1 {
   font-family: 'Indie Flower', cursive;
    font-size: 3rem;
    text-align: center;
+   color: black;
    border-bottom: 2px ridge #000000
 
 }
@@ -29,11 +30,13 @@ h2 {
 div {
    display: block;
    text-align: center;
+
 }
 
 div p {
    font-size: 14px;
    margin: 0;
+   color: black;
 }
 
 div a {
@@ -42,7 +45,7 @@ div a {
 
 a {
    border-bottom: 1px solid #f6879b;
-   color: #ccc;
+   color: #black;
    padding-bottom: 3px;
    text-decoration: none;
 }
